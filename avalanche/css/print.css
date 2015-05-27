@@ -174,8 +174,10 @@ div.presentation, div.slides {
 
 div.slide {
   display: block !important;
-  width: 740pt !important;
-  height: 460pt !important;
+/*  width: 740pt !important;
+  height: 460pt !important;*/
+  width: 498pt !important;
+  height: 460pt; ! important;
   border: 2pt solid #ddd;
 /*  width      : 100%;
   height     : 100%;*/
@@ -184,10 +186,12 @@ div.slide {
 }
 
 div.slide div.inner {
-  width: 750pt !important;
-  height: 460pt !important;
+/*  width: 750pt !important;
+  height: 460pt !important;*/
+  width: 498pt !important;
+  height: 460pt; ! important;
   margin: auto;
-  display: table-cell;
+  /*  display: table-cell; */
   padding: 10pt;
 }
 
